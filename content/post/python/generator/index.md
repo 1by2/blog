@@ -3,9 +3,9 @@
 
 title: "Part 1 Generator: Introduction"
 subtitle: "A poweful feature of python"
-summary: ""
+summary: "Understanding the powerful feature of python"
 authors: ["admin"]
-tags: ["python","iterators","lazy evaluation","generators", "yield"]
+tags: ["Python","Iterators","Lazy Evaluation","Generators", "yield"]
 categories: ["python"]
 date: 2020-05-28T11:31:35+05:30
 lastmod: 2020-05-28T11:31:35+05:30
@@ -163,4 +163,4 @@ Like list comprehensions, generators also support concise notions for such opera
 >>> next(even_numbers)
 6
 ```
-<A href="/post/python/generator2/">To be continued...</a>
+<a href="/post/python/generator2/">To be continued...</a>

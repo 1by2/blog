@@ -3,9 +3,9 @@
 
 title: "Part 2 Generator: Python Coroutine"
 subtitle: "Decomposing complex program into sophisticated pipelines"
-summary: ""
+summary: "Decomposing complex program into sophisticated pipelines"
 authors: ["admin"]
-tags: ["python","generators","subroutine","coroutine"]
+tags: ["Python","Generators","Subroutine","Coroutine"]
 categories: ["python"]
 date: 2020-05-28T16:15:08+05:30
 lastmod: 2020-05-28T16:15:08+05:30
